@@ -2,4 +2,4 @@ This project is a web application designed to provide current weather informatio
 
 Users can enter a city name, and the app will display the current temperature, humidity, wind speed, and a representative weather icon.
 
-Check out my weather app project  [here]([url](https://climateconnect1.netlify.app/))
+<a href="https://climateconnect1.netlify.app/" >Check out my weather app project here.</a>
